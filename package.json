@@ -1,0 +1,26 @@
+{
+  "name": "imp-cypress",
+  "version": "1.0.0",
+  "description": "Testes automatizados em cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open",
+    "run": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StrJosedavi/CypressLearning.git"
+  },
+  "author": "Davi Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StrJosedavi/CypressLearning/issues"
+  },
+  "homepage": "https://github.com/StrJosedavi/CypressLearning#readme",
+  "devDependencies": {
+    "cypress": "^13.6.2"
+  },
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}

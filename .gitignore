@@ -1,0 +1,10 @@
+# Arquivos gerados pelo Cypress
+/cypress/videos/
+/cypress/screenshots/
+/cypress/reports/
+
+# Dependências do Cypress
+/node_modules/
+/.cy Cypress/
+/cypress.env.json
+/cypress.json
